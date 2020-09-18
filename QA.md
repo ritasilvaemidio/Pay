@@ -22,4 +22,4 @@ Abaixo estão as instalações necessárias para o BexsPay.
 
 - Digitar o comando no terminal:
 
- 	`sudo dnf install kubernetes-client`# Pay
+ 	`sudo dnf install kubernetes-client`
